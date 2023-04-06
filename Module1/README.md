@@ -1,5 +1,5 @@
-# DataLearn
-### Data-Learn labs  by OLEG YASAKOV  
+# DataLearn Module 1
+### Lab by OLEG YASAKOV  
   
 There is a simplified data engineering scheme:  
 ![DE1](https://github.com/RhymeLost/DataLearn/blob/main/Module1/de1.png)
