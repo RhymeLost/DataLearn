@@ -1,8 +1,10 @@
 # DataLearn Module 2
 ### Lab by OLEG YASAKOV  
+***
+### SQL queries for metrics review 
+[SQL file](https://github.com/RhymeLost/DataLearn/blob/main/Module%202/DL%20scripts%201%20overview.sql)
 
-This folder contains 2 insert scripts and 1 file with queries.
-Metrics:
+Used metrics:
 1. Overview:
 * Total Sales
 * Total Profit
@@ -17,3 +19,8 @@ Metrics:
 * Sales and Profit by Customer
 * Customer Ranking
 * Sales per region
+
+### Сreating dimensional data model
+[SQL file](https://github.com/RhymeLost/DataLearn/blob/main/Module%202/DL2%20Model2.sql)
+
+![Data model](https://github.com/RhymeLost/DataLearn/blob/main/Module%202/Dim%20model.png)
